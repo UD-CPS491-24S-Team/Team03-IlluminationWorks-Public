@@ -20,8 +20,7 @@
 
 title: Team03 IlluminationWorks Theia Project
 email: Sam Jennes, jenness1@udayton.edu, Ignacio Abrams, abramsi1@udayton.edu, Quinn Hanley, hanleyq1@udayton.edu
-description: Public facing portion of the 24 Spring - Illumination Works Theia AKG for Autonomous Metadata Generation and Linkage User Interface and Service Layer Integration
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Public facing portion of the 24 Spring - Illumination Works Theia AKG for Autonomous Metadata Generation and Linkage User Interface and Service Layer Integration # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
