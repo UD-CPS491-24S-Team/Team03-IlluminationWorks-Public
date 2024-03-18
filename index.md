@@ -9,7 +9,7 @@ layout: default
 # Team Members
 
 **Ignacio Abrams**
-![alt text] (https://i.imgur.com/epc0Jvj.jpeg)
+![alt text](https://i.imgur.com/epc0Jvj.jpeg)
 
 **Sam Jennes**
 
