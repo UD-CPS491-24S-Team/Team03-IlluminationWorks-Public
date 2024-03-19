@@ -16,3 +16,5 @@ layout: default
 **Quinn Hanley**
 
 ![alt text](https://i.imgur.com/9KUxWiO.jpeg)
+![alt text](https://imgur.com/a/IZAu2UD)
+
