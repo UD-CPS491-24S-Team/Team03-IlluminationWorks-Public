@@ -19,7 +19,8 @@ Illumination Works is a digital transformation firm focused on meeting the needs
 
 **Sam Jennes**
 
-**Quinn Hanley**
+**Quinn Hanley**<br>
+
 Quinn Hanley is a senior at the University of Dayton majoring in Computer Information Systems and minoring in Communcations.
 ![alt text](https://i.imgur.com/9KUxWiO.jpeg)
 
