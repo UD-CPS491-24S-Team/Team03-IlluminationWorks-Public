@@ -15,4 +15,4 @@ layout: default
 
 **Quinn Hanley**
 
-![Alt text](https://imgur.com/a/BGIGq3t)
+![alt text] (https://imgur.com/a/BGIGq3t)
