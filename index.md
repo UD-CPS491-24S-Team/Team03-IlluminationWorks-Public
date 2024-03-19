@@ -15,10 +15,15 @@ Illumination Works is a digital transformation firm focused on meeting the needs
 # Team Members
 
 **Ignacio Abrams**
+
 ![alt text](https://i.imgur.com/epc0Jvj.jpeg)
 
 **Sam Jennes**
-![alt text](https://imgur.com/a/DdcbtVx)
+
+![alt text](https://i.imgur.com/Hzn0xSp.jpeg)
+
+Sam Jennes is a senior at the University of Dayton majoring in Computer Science. Contact him on [LinkedIn](https://www.linkedin.com/in/samuel-jennes/).
+
 
 **Quinn Hanley**<br>
 
