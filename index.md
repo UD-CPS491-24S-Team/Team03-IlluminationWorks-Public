@@ -17,7 +17,7 @@ Illumination Works is a digital transformation firm focused on meeting the needs
 
 **Ignacio Abrams**
 
-![alt text](https://i.imgur.com/epc0Jvj.jpeg)
+![alt text](https://i.imgur.com/QKEUKog.jpeg)
 
 Ignacio Abrams is a senior at the university of dayton majoring in Computer Information Systems and minoring in Business Administration.
 
