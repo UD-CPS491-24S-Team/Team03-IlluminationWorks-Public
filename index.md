@@ -12,6 +12,7 @@ layout: default
 ![alt text](https://i.imgur.com/epc0Jvj.jpeg)
 
 **Sam Jennes**
+![alt text](https://imgur.com/a/DdcbtVx)
 
 **Quinn Hanley**
 
