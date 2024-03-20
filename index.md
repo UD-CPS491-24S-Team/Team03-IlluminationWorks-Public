@@ -23,7 +23,7 @@ Ignacio Abrams is a senior at the university of dayton majoring in Computer Info
 
 **Sam Jennes**
 
-<img src="https://i.imgur.com/Hzn0xSp.jpeg" alt="alt text" width="300" height="200">
+<img src="https://i.imgur.com/Hzn0xSp.jpeg" alt="alt text" width="300" height="300">
 
 Sam Jennes is a senior at the University of Dayton majoring in Computer Science. Contact him on [LinkedIn](https://www.linkedin.com/in/samuel-jennes/).
 
