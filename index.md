@@ -29,5 +29,5 @@ Sam Jennes is a senior at the University of Dayton majoring in Computer Science.
 
 **Quinn Hanley**<br>
 
-Quinn Hanley is a senior at the University of Dayton majoring in Computer Information Systems and minoring in Communcations.
-![alt text](https://i.imgur.com/9KUxWiO.jpeg)
+<img src="https://i.imgur.com/9KUxWiO.jpeg" width="240" height="360" />
+<p>Quinn Hanley is a senior at the University of Dayton majoring in Computer Information Systems and minoring in Communcations. Contant him on [LinkedIn](www.linkedin.com/in/quinn-hanley-700708207).
