@@ -60,6 +60,28 @@ In the second month of the Theia project, our focus shifted towards refining the
 
 Moreover, we introduced the article view feature, providing users with a dedicated space to view articles. These advancements represent a substantial step forward in realizing our vision for Theia's user interface, bringing us closer to delivering a polished and functional product.
 
+
+<div>
+    <h2 id="month-2-development">Month 2 Development</h2>
+    <p>In the second month of the Theia project, our focus shifted towards refining the wireframes to align our UI more closely with the initial designs. We made significant progress, particularly in implementing key features such as the "Save Article" button, accompanied by a sidebar to store saved articles. Additionally, we enhanced the functionality and aesthetics of the tag component, incorporating updated styling and enabling server-side filtering based on the selected tags.</p>
+    <p>Moreover, we introduced the article view feature, providing users with a dedicated space to view articles. These advancements represent a substantial step forward in realizing our vision for Theia's user interface, bringing us closer to delivering a polished and functional product.</p>
+    <h3 id="demo-video">Demo Video</h3>
+    <strong>Technologies</strong>
+    <strong>React</strong>
+    <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
+    <p>React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes. It utilizes a declarative programming style, where developers describe how the UI should look at any given point in time, and React takes care of updating the DOM (Document Object Model) to match this desired state.</p>
+    <strong>Vite</strong>
+    <img src="https://i.imgur.com/ygmHSeM.jpeg" width="240" height="240" />
+    <p>Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.</p>
+    <strong>Axios</strong>
+    <img src="https://i.imgur.com/hltQo14.png" width="480" height="290" />
+    <p>Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.</p>
+    <strong>Neo4J</strong>
+    <img src="https://i.imgur.com/mrUIjk9.png" width="480" height="240" />
+    <p>Neo4j is a highly scalable and schema-free graph database management system. It is designed to store, manage, and query highly interconnected data, making it particularly suited for use cases involving complex relationships and network-like structures.</p>
+</div>
+
+
 <h3 id="demo-video">Demo Video</h3>
 
 <strong>Technologies</strong>
@@ -84,13 +106,13 @@ When combined with React, Vite becomes Vite React, offering a streamlined develo
 
 Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.
 
-<img src="https://i.imgur.com/hltQo14.png" width="640" height="360" />
+<img src="https://i.imgur.com/hltQo14.png" width="480" height="290" />
 
 
 <strong>Neo4J</strong>
 
 Neo4j is a highly scalable and schema-free graph database management system. It is designed to store, manage, and query highly interconnected data, making it particularly suited for use cases involving complex relationships and network-like structures.
 
-<img src="https://i.imgur.com/mrUIjk9.png" width="640" height="360" />
+<img src="https://i.imgur.com/mrUIjk9.png" width="480" height="240" />
 
 
