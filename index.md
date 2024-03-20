@@ -44,7 +44,7 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <p3>
     To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression. 
     </p3>
-    <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.</div>
+    <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
 
 
 <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
