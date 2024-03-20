@@ -44,8 +44,8 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <p3>
     To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression. 
     </p3>
-    <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
-</div>
+    <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.</div>
+
 
 <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
 
@@ -65,6 +65,7 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     </video>
     <p></p>
     <strong>Technologies</strong>
+    <p></p>
     <strong>React</strong>
     <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
     <p>React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes. It utilizes a declarative programming style, where developers describe how the UI should look at any given point in time, and React takes care of updating the DOM (Document Object Model) to match this desired state.</p>
