@@ -36,4 +36,24 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
 
 # Project Progress
 
-## Month 1
+## Month 1 Design
+<div>
+    <p1> During the first month of Theia project, our focus was on translating wireframes provided by the        Illumination Works Team into tangible designs while acquiring the necessary technological expertise. Given that the project was slated for React, a JavaScript library for UI development, we embarked on a learning journey. Despite having a clear end goal, our team initially grappled with the process of replicating the wireframes.<br>
+    </p1><br> 
+    <p3>
+    To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression. 
+    </p3>
+    <p><br> These images below show our progress after month one with the bottom image being the wirefram that we were working towards.
+
+</div>
+<img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
+
+<img src="https://i.imgur.com/ZNz5dAs.png" width="720" height="480" />
+
+<img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" />
+
+## Month 2 Development 
+
+### Demo Video
+
+**Technologies**
