@@ -54,18 +54,15 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
 <img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" />
 
 
-<h2 id="month-2-development">Month 2 Development</h2>
-
-In the second month of the Theia project, our focus shifted towards refining the wireframes to align our UI more closely with the initial designs. We made significant progress, particularly in implementing key features such as the "Save Article" button, accompanied by a sidebar to store saved articles. Additionally, we enhanced the functionality and aesthetics of the tag component, incorporating updated styling and enabling server-side filtering based on the selected tags.
-
-Moreover, we introduced the article view feature, providing users with a dedicated space to view articles. These advancements represent a substantial step forward in realizing our vision for Theia's user interface, bringing us closer to delivering a polished and functional product.
-
-
 <div>
     <h2 id="month-2-development">Month 2 Development</h2>
     <p>In the second month of the Theia project, our focus shifted towards refining the wireframes to align our UI more closely with the initial designs. We made significant progress, particularly in implementing key features such as the "Save Article" button, accompanied by a sidebar to store saved articles. Additionally, we enhanced the functionality and aesthetics of the tag component, incorporating updated styling and enabling server-side filtering based on the selected tags.</p>
     <p>Moreover, we introduced the article view feature, providing users with a dedicated space to view articles. These advancements represent a substantial step forward in realizing our vision for Theia's user interface, bringing us closer to delivering a polished and functional product.</p>
     <h3 id="demo-video">Demo Video</h3>
+    <video width="640" height="360" controls>
+    <source src="video/video.mov" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
     <strong>Technologies</strong>
     <strong>React</strong>
     <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
