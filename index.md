@@ -9,7 +9,8 @@ layout: default
 # Project Sponsor
 
 **Illumination Works**
-![alt text](https://i.imgur.com/qEQsNwh.png)
+
+<img src="https://i.imgur.com/qEQsNwh.png" width="500" height="360" />
 
 Illumination Works is a digital transformation firm focused on meeting the needs of users. They possess extensive knowledge and experience in creating robust infrastructures for managing large-scale data, conducting data science, advanced analytics, and visualization. Their expertise lies in adapting to the evolving landscape of data, including various sources like behavioral, social, sensor, and spatial data, as well as advancements such as personal devices, cloud computing, and wireless connectivity. Illumination Works specializes in tailoring data solutions to handle diverse data types and analytical demands. They construct scalable data platforms capable of accommodating growing data volumes and supporting unconventional data sources, ensuring flexibility and efficiency.
 
@@ -43,7 +44,7 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <p3>
     To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression. 
     </p3>
-    <p><br> These images below show our progress after month one with the bottom image being the wirefram that we were working towards.
+    <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
 
 </div>
 <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
