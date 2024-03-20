@@ -55,7 +55,9 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
 
 
 ## Month 2 Development 
-During the second month of the Theia project, we began to further fill out the wireframes to bring our version of the UI closer to the wireframes. Some of the advancements we were able to make were was the save article button with the sidebar the holds the saved article. The tag component has been further implemented with updated styling as well as functionality alowwing server side reponses filtering based on tag clicked. The addition of the article view where you would view article has also been added. 
+In the second month of the Theia project, our focus shifted towards refining the wireframes to align our UI more closely with the initial designs. We made significant progress, particularly in implementing key features such as the "Save Article" button, accompanied by a sidebar to store saved articles. Additionally, we enhanced the functionality and aesthetics of the tag component, incorporating updated styling and enabling server-side filtering based on the selected tags.
+
+Moreover, we introduced the article view feature, providing users with a dedicated space to view articles. These advancements represent a substantial step forward in realizing our vision for Theia's user interface, bringing us closer to delivering a polished and functional product.
 
 ### Demo Video
 
