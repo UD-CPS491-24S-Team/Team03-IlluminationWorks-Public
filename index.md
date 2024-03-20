@@ -45,16 +45,50 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression. 
     </p3>
     <p><br> These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
-
 </div>
+
 <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
 
 <img src="https://i.imgur.com/ZNz5dAs.png" width="720" height="480" />
 
 <img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" />
 
+
 ## Month 2 Development 
+During the second month of the Theia project, we began to further fill out the wireframes to bring our version of the UI closer to the wireframes. Some of the advancements we were able to make were was the save article button with the sidebar the holds the saved article. The tag component has been further implemented with updated styling as well as functionality alowwing server side reponses filtering based on tag clicked. The addition of the article view where you would view article has also been added. 
 
 ### Demo Video
 
+
 **Technologies**
+
+**React**
+
+<img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
+
+React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes. It utilizes a declarative programming style, where developers describe how the UI should look at any given point in time, and React takes care of updating the DOM (Document Object Model) to match this desired state.
+
+**Vite**
+
+Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.
+
+When combined with React, Vite becomes Vite React, offering a streamlined development environment specifically tailored for React applications.
+
+<img src="https://i.imgur.com/ygmHSeM.jpeg" width="240" height="240" />
+
+
+**Axios** 
+
+
+Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.
+
+<img src="https://i.imgur.com/hltQo14.png" width="640" height="360" />
+
+
+**Neo4J**
+
+Neo4j is a highly scalable and schema-free graph database management system. It is designed to store, manage, and query highly interconnected data, making it particularly suited for use cases involving complex relationships and network-like structures.
+
+<img src="https://i.imgur.com/mrUIjk9.png" width="640" height="360" />
+
+
