@@ -1,6 +1,5 @@
-theme: jekyll-theme-minimal
-plugins:
-- jekyll-remote-theme 
-
-title: [CPS 491 Team 3 IlluminationWorks Theia]
-description: [Illumination Works Theia AKG for Autonomous Metadata Generation and Linkage User Interface and Service Layer Integration]
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
