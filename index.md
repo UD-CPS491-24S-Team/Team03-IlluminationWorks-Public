@@ -64,19 +64,31 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     Your browser does not support the video tag.
     </video>
     <p></p>
+    <h2 id="month-3-development">Month 3 Development</h2>
+    <p>In the third month of the Theia project, our focus intensified on backend development and database integration. We implemented the user authentication system, allowing users to create accounts, log in securely, and manage their profiles. Additionally, we integrated Neo4j as our database solution, leveraging its capabilities for managing highly interconnected data structures efficiently.</p>
+    <p>Furthermore, we began implementing additional features such as search functionality, enabling users to search for articles based on keywords or tags. This month marked significant progress in building the foundation for Theia's backend infrastructure, setting the stage for future development phases.</p>
+    <h3 id="demo-video">Demo Video</h3>
     <strong>Technologies</strong>
     <p></p>
-    <strong>React</strong>
     <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
+    <p></p>
+    <strong>React</strong>
     <p>React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes. It utilizes a declarative programming style, where developers describe how the UI should look at any given point in time, and React takes care of updating the DOM (Document Object Model) to match this desired state.</p>
-    <strong>Vite</strong>
     <img src="https://i.imgur.com/ygmHSeM.jpeg" width="240" height="240" />
+    <p></p>
+    <strong>Vite</strong>
+    <p></p>
     <p>Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.</p>
-    <strong>Axios</strong>
     <img src="https://i.imgur.com/7QdJ8LX.png" width="400" height=60" />
+    <p></p>
+    <strong>Axios</strong>
+    <p></p>
     <p>Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.</p>
-    <strong>Neo4J</strong>
     <img src="https://i.imgur.com/mrUIjk9.png" width="417" height="156.5" />
+    <p></p>
+    <strong>Neo4J</strong>
+    <p></p>
     <p>Neo4j is a highly scalable and schema-free graph database management system. It is designed to store, manage, and query highly interconnected data, making it particularly suited for use cases involving complex relationships and network-like structures.</p>
 </div>
+
 
