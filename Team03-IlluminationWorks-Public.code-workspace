@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/.github"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/_includes"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/_layouts"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/_sass"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/assets"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/docs"
+		},
+		{
+			"path": "../Desktop/theme/pages-themes-cayman-56aa6db/script"
+		}
+	],
+	"settings": {}
+}

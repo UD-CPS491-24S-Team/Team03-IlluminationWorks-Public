@@ -73,10 +73,10 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <img src="https://i.imgur.com/ygmHSeM.jpeg" width="240" height="240" />
     <p>Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.</p>
     <strong>Axios</strong>
-    <img src="https://i.imgur.com/7QdJ8LX.png" width="480" height="80" />
+    <img src="https://i.imgur.com/7QdJ8LX.png" width="400" height=60" />
     <p>Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.</p>
     <strong>Neo4J</strong>
-    <img src="https://i.imgur.com/mrUIjk9.png" width="480" height="240" />
+    <img src="https://i.imgur.com/mrUIjk9.png" width="417" height="156.5" />
     <p>Neo4j is a highly scalable and schema-free graph database management system. It is designed to store, manage, and query highly interconnected data, making it particularly suited for use cases involving complex relationships and network-like structures.</p>
 </div>
 
