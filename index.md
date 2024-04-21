@@ -1,10 +1,6 @@
-Here's the Markdown conversion of your HTML:
-
-```markdown
 ---
 layout: default
 ---
-
 # Theia
 ## Project Overview
 
