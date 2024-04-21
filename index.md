@@ -75,7 +75,8 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <video width="640" height="360" controls>
     <source src="video/theia_demo.mp4">
     </video>
-    <strong>Technologies</strong>
+    <p></p>
+    <h2>Technologies</h2>
     <p></p>
     <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
     <p></p>
