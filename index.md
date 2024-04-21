@@ -82,7 +82,7 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <p></p>
     <strong>React</strong>
     <p>React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes. It utilizes a declarative programming style, where developers describe how the UI should look at any given point in time, and React takes care of updating the DOM (Document Object Model) to match this desired state.</p>
-    <img src="https://i.imgur.com/ygmHSeM.jpeg" width="240" height="240" />
+    <img src="https://i.imgur.com/ibvZXWX.png" width="240" height="240" />
     <p></p>
     <strong>Vite</strong>
     <p></p>
