@@ -64,6 +64,9 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     Your browser does not support the video tag.
     </video>
     <p></p>
+    <h3 id="demo-video">Demo Video</h3>
+    <video width="640" height="360" controls>
+    <source src="video/theia_demo.mp4">
     <strong>Technologies</strong>
     <p></p>
     <strong>React</strong>
