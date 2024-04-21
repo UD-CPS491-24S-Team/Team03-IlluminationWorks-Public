@@ -65,9 +65,16 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     </video>
     <p></p>
     <h2 id="month-3-development">Month 3 Development</h2>
-    <p>In the third month of the Theia project, our focus intensified on backend development and database integration. We implemented the user authentication system, allowing users to create accounts, log in securely, and manage their profiles. Additionally, we integrated Neo4j as our database solution, leveraging its capabilities for managing highly interconnected data structures efficiently.</p>
-    <p>Furthermore, we began implementing additional features such as search functionality, enabling users to search for articles based on keywords or tags. This month marked significant progress in building the foundation for Theia's backend infrastructure, setting the stage for future development phases.</p>
+    <p>In the third month of Theia project's development, our focus honed in on several key areas crucial for the platform's functionality. One major aspect was the refinement of page routing, particularly with the integration of the new searchView page. Leveraging Neo4j packages such as neo4j-driver and use-neo4j, we delved into database interaction, laying the groundwork for data retrieval from our Neo4j database.</p>
+    <p>Connecting our application to the Neo4j database was a pivotal step in our project's development journey. Through the use of Neo4j's powerful querying capabilities, we were able to seamlessly pull source data and tag names directly from the database, enriching the user experience.</p>
+    <p>With the assistance of Neo4j's neo4j-driver package, we established a secure and efficient connection to our database, enabling seamless data retrieval processes. By leveraging the use-neo4j package, we streamlined data fetching operations, ensuring optimal performance and responsiveness throughout the application.</p>
+    <p>Simultaneously, considerable efforts were dedicated to refining the user interface through meticulous CSS styling. Guided by the wireframes, we meticulously crafted the visual elements of Theia, ensuring alignment with the initial design concepts while also prioritizing responsiveness and usability. Key pages such as the searchView, browseView, and articleView underwent extensive styling enhancements, resulting in a cohesive and visually appealing user experience.</p>
+    <p></p>
+    <p>In summary, the third month of development marked a significant milestone in the evolution of Theia, wherein backend integration with Neo4j and frontend styling efforts converged to form a cohesive and polished product. By marrying technical functionality with aesthetic appeal, we laid a solid foundation for subsequent phases of development, setting the stage for further enhancements and feature expansions in the journey towards realizing Theia's full potential.</p>
     <h3 id="demo-video">Demo Video</h3>
+    <video width="640" height="360" controls>
+    <source src="video/theia_demo.mp4">
+    </video>
     <strong>Technologies</strong>
     <p></p>
     <img src="https://i.imgur.com/h5KBdWg.png" width="240" height="220" />
@@ -79,12 +86,12 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <strong>Vite</strong>
     <p></p>
     <p>Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.</p>
-    <img src="https://i.imgur.com/7QdJ8LX.png" width="400" height=60" />
+    <img src="https://i.imgur.com/7QdJ8LX.png" width="400"height="60"/>
     <p></p>
     <strong>Axios</strong>
     <p></p>
     <p>Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.</p>
-    <img src="https://i.imgur.com/mrUIjk9.png" width="417" height="156.5" />
+    <img src="https://i.imgur.com/mrUIjk9.png" width="417" height="156.5"/>
     <p></p>
     <strong>Neo4J</strong>
     <p></p>
