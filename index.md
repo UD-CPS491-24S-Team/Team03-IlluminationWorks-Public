@@ -48,10 +48,11 @@ To bridge this knowledge gap, we commenced by completing the React tutorial to g
 
 These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
 <div>
-    <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
-    <img src="https://i.imgur.com/ZNz5dAs.png" width="720" height="480" />
-    <img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" />
+    <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" style="border: 2px solid black;"/>
+    <img src="https://i.imgur.com/ZNz5dAs.png" width="720" height="480" style="border: 2px solid black;"/>
+    <img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" style="border: 2px solid black;"/>
 </div>
+
 
 ## Month 2 Development
 
