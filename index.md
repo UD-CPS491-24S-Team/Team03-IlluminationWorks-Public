@@ -2,9 +2,8 @@
 layout: default
 ---
 # Theia
-## Project Overview
 
-> **Project Overview**
+**Project Overview**
 
 Our capstone project is a collaboration with Illumination Works LLC to develop a user interface (UI) for the Theia Autonomous Knowledge Generator (AKG).
 
