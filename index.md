@@ -87,7 +87,7 @@ Quinn Hanley is a senior at the University of Dayton majoring in Computer Inform
     <strong>Vite</strong>
     <p></p>
     <p>Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.</p>
-    <img src="https://i.imgur.com/7QdJ8LX.png" width="400"height="60"/>
+    <img src="https://i.imgur.com/WM2EiDV.png" width="400"height="60"/>
     <p></p>
     <strong>Axios</strong>
     <p></p>
