@@ -4,7 +4,23 @@ layout: default
 # Theia
 ## Project Overview
 
-> The THEIA project tasks us with creating a UI for an application that is meant for searching and analyzing metadata. Theia aims to combine data processing, and Natural Language Processing. By combining these processes, Theia will facilitate extracting information from: documents, samples, system architectures, and even code conversion outputs so that they can be further processed and analyzed.
+> **Project Overview**
+
+Our capstone project is a collaboration with Illumination Works LLC to develop a user interface (UI) for the Theia Autonomous Knowledge Generator (AKG).
+
+The Theia AKG was conceived to address the challenges faced by many in recalling and analyzing data from diverse sources swiftly. In today's data-driven landscape, companies deal with extensive datasets ranging from images to spreadsheets, necessitating expert-level understanding to navigate through the information effectively. Theia aims to simplify this process by leveraging innovative technology to extract relevant metadata from various sources, analyze data relationships, and store the information in a graph database. This approach streamlines the search and analysis of interconnected data, facilitating rapid retrieval of pertinent information.
+
+For instance, consider an article titled "Modern Agriculture in Brazil" and a spreadsheet containing fruit and vegetable prices. Theia can extract metadata from both datasets, identify commonalities such as their origin in Brazil in 2019, and establish a relationship between them in the graph database. Subsequently, a user searching for "Prices of bananas in Brazil in 2019" would receive both datasets as relevant results.
+
+Following the initial data storage, Theia employs an "Active Metadata" approach to continuously update and analyze data changes. This ensures that users can track changes in data properties and relationships over time without losing existing information.
+
+Our task from Illumination Works was to develop the UI for Theia, bridging the gap between users and the graph database. Unlike traditional database interfaces that rely on complex query languages like Cypher, Theia's UI enables users to interact with the graph database intuitively, without prior knowledge of database structure or query languages.
+
+The UI development primarily focuses on frontend implementation, with some backend integration. We are tasked with displaying information from the graph database to users in a user-friendly manner. Wireframes provided at the project's outset serve as a blueprint for the UI's structure, ensuring a seamless user experience.
+
+Backend development involves retrieving and querying data from the Neo4j graph database, converting database queries into user-friendly English sentences, and displaying the retrieved data to users. Each piece of data in the graph database is represented as a "node," containing properties and relationships that are essential for data retrieval and display.
+
+In summary, our project aims to empower users with seamless access to complex data through an intuitive UI, bridging the gap between advanced data analytics and user experience.
 
 ## Project Sponsor
 
