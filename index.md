@@ -22,19 +22,23 @@ Illumination Works is a digital transformation firm focused on meeting the needs
 
 **Ignacio Abrams**
 
-![Ignacio Abrams](https://i.imgur.com/Rm9bUwq.jpeg)
+![alt text](https://i.imgur.com/Rm9bUwq.jpeg)
 
 Ignacio Abrams is a senior at the University of Dayton majoring in Computer Information Systems and minoring in Business Administration.
 
 **Sam Jennes**
-
-![Sam Jennes](https://i.imgur.com/Hzn0xSp.jpeg)
+<div>
+    <img src="https://i.imgur.com/Hzn0xSp.jpeg" alt="alt text" width="300" height="300">
+</div>
 
 Sam Jennes is a senior at the University of Dayton majoring in Computer Science. Contact him on [LinkedIn](https://www.linkedin.com/in/samuel-jennes/).
 
 **Quinn Hanley**
 
-![Quinn Hanley](https://i.imgur.com/9KUxWiO.jpeg)
+<div>
+    <img src="https://i.imgur.com/9KUxWiO.jpeg" width="240" height="360" />
+</div>
+
 
 Quinn Hanley is a senior at the University of Dayton majoring in Computer Information Systems and minoring in Communications. Contact him on [LinkedIn](https://www.linkedin.com/in/quinn-hanley-700708207/).
 
@@ -47,12 +51,11 @@ During the first month of Theia project, our focus was on translating wireframes
 To bridge this knowledge gap, we commenced by completing the React tutorial to gain a solid foundation in the technology. With growing confidence in our React skills, we commenced the construction of key components, namely the Article box and the Tag component. The latter proved particularly crucial as it pervaded various facets of the UI, laying a foundational aspect for the project's progression.
 
 These images below show our progress after month one with the bottom image being the wireframe that we were working towards.
-
-![Wireframe Progress 1](https://i.imgur.com/Aoxa5cx.png)
-
-![Wireframe Progress 2](https://i.imgur.com/ZNz5dAs.png)
-
-![Wireframe Progress 3](https://i.imgur.com/g30sH0h.png)
+<div>
+    <img src="https://i.imgur.com/Aoxa5cx.png" width="720" height="480" />
+    <img src="https://i.imgur.com/ZNz5dAs.png" width="720" height="480" />
+    <img src="https://i.imgur.com/g30sH0h.png" width="720" height="480" />
+</div>
 
 ## Month 2 Development
 
@@ -87,26 +90,26 @@ In summary, the third month of development marked a significant milestone in the
 
 # Technologies
 
-![React Logo](https://i.imgur.com/h5KBdWg.png)
+![React Logo](https://i.imgur.com/h5KBdWg.png){:width="240px" height="220px"}
 
 **React**
 
 React is a JavaScript library primarily used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components that efficiently update and render in response to data changes.
 
 
-![Vite Logo](https://i.imgur.com/i7QXjdx.png)
+![Vite Logo](https://i.imgur.com/i7QXjdx.png){:width="240px" height="240px"}
 
 **Vite**
 
 Vite is a modern build tool for front-end development that aims to optimize the development experience by leveraging native ES Module support in modern browsers. It serves as a fast and efficient alternative to traditional bundlers like Webpack.
 
-![Axios Logo](https://i.imgur.com/WM2EiDV.png)
+![Axios Logo](https://i.imgur.com/WM2EiDV.png){:width="400px" height="60px"}
 
 **Axios**
 
 Axios is a popular JavaScript library used for making HTTP requests from both the browser and Node.js environments. It provides a simple and elegant API for performing asynchronous operations, such as fetching data from a server or sending data to a server.
 
-![Neo4j Logo](https://i.imgur.com/mrUIjk9.png)
+![Neo4j Logo](https://i.imgur.com/mrUIjk9.png){:width="417px" height="156.5px"}
 
 **Neo4J**
 
